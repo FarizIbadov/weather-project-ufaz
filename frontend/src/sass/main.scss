@@ -1,0 +1,8 @@
+$theme-colors: (
+  "primary": #343a40,
+);
+
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+@import "./danger";
+@import "./loader";
+@import "./city";
